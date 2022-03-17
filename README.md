@@ -2,16 +2,17 @@
 #### This site is a software developement site, Mar-15-2022
 #### By b3nzuk3
 ## Description
-These is a website where software devolopers across the world meet and share ideas to develop new cutting edge tech to improve the world.
+These is a website where software developers across the world meet and share ideas to develop new cutting edge tech to improve the world.
 ## Setup/Installation Requirements
-Once you access the Webpage, there's a brief description about the Akan names.
-The Calculator is just below, where the User will be required to fill a Form, to run the program.
-After this the day of the week they were born will be displayed just below together with their Akan name.
+Once you access the Webpage, there's a brief description about Delani studios.
+Once the user is satisfied with what he/she wants to work with they can send us an email to join with a brief text at bottom of the page.
 ## Other Projects
 1. Project alpha:
 https://github.com/b3nzuk3/project-alpha
 2. Project Omega-phase1:
 https://b3nzuk3.github.io/omega-phase1/
+3.Project Calculator
+https://b3nzuk3.github.io/calculator/
 
 ## Known Bugs
 The site might have an update in the near future but as for now no challenges.
