@@ -11,7 +11,7 @@ Once the user is satisfied with what he/she wants to work with they can send us 
 https://github.com/b3nzuk3/project-alpha
 2. Project Omega-phase1:
 https://b3nzuk3.github.io/omega-phase1/
-3.Project Calculator
+3.Project Calculator:
 https://b3nzuk3.github.io/calculator/
 
 ## Known Bugs
