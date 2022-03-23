@@ -1,5 +1,3 @@
-$(".text").hide();
-
 // DESIGN TOGGLE EFFECT
 
 $('.target-design').click(function() {
@@ -23,12 +21,9 @@ $('.target-product').click(function() {
   $(".product-hidden").toggle();
 });
 
+$("#feedbackBtn").click(function(){
 
+alert("We have received your message, we will reach back at you!")
 
-
-// ALERT MESSAGE
-
-$("#feedbackBtn").click(function() {
-  alert("We have received your Message, thanks for contacting us");
 
 });
